@@ -1,0 +1,37 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is React?",
+        "options": [
+          "A JavaScript library for building user interfaces",
+          "A database management system",
+          "A programming language",
+          "A web server"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 2,
+        "question": "What is TypeScript?",
+        "options": [
+          "A database",
+          "A styling framework",
+          "A typed superset of JavaScript",
+          "A testing framework"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 3,
+        "question": "What is Cypress?",
+        "options": [
+          "A database",
+          "A testing framework",
+          "A styling library",
+          "A build tool"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  } 

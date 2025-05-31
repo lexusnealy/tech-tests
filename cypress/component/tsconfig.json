@@ -1,0 +1,10 @@
+{
+    "extends": "../tsconfig.json",
+    "compilerOptions": {
+      "jsx": "react-jsx",
+      "moduleResolution": "node",
+      "types": ["cypress", "node"],
+      "isolatedModules": true
+    },
+    "include": ["**/*.ts", "**/*.tsx"]
+  } 
